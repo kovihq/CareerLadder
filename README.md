@@ -22,30 +22,30 @@ Em nossa estrutura, diferenciamos entre *níveis* e *papéis*. Importante notar 
 Leia sobre cada level [AQUI](./Levels/README.md)
 
 **Técnico**
-: SWE
-: Data Engineer
-: Data Analyst
-: Data Science
-: Staff Engineer
-: Principal Engineer
+: SWE  
+: Data Engineer  
+: Data Analyst  
+: Data Science  
+: Staff Engineer  
+: Principal Engineer  
 
 **Gestão**
-: Tech Manager
-: Director of Engineering
-: VP
-: CTO
+: Tech Manager  
+: Director of Engineering  
+: VP  
+: CTO  
 
 ## Características Observadas em cada Level
 
 Estabelecemos também definições comportamentais para um SWE ou um Data Analyst / Science na Kovi, sendo skills muito relacionados ao dia a dia.
 São cruciais para a evolução e maturidade do profissional, contribuindo fortemente para sua ascensão profissional. São eles:
 
-1. Ação
-2. Planejamento
-3. Reporting
-4. Fórum
-5. Feedback
-6. Autodesenvolvimento
+1. ⚙️ Ação
+2. 👨‍💻 Planejamento
+3. 📆 Reporting
+4. 📢 Fórum
+5. 💬 Feedbacks
+6. 🌱 Autodesenvolvimento
 
 > [!TIP]
 > Leia também sobre as características e como elas se correlacionam com  [AQUI](./characteristics.md)
@@ -57,7 +57,7 @@ São cruciais para a evolução e maturidade do profissional, contribuindo forte
 
 A ideia de um framework nasceu para possibilitar maior direcionamento e independência na evolução de todos. O framework esta sempre em constante evolução, o que significa que novos itens podem ser adicionados. Apesar da adição, os níveis continuam representados por levels e em cada level uma expectativa de desenvolvimento.
 
-[Framework de Aplicação](./framework.md)
+[Framework de Aplicação](./framework.md)  
 [Exemplo na prática](./example.md)
 
 ## Evolução
